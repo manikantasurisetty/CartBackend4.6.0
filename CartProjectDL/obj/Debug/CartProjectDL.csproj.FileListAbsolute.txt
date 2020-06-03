@@ -1,0 +1,6 @@
+C:\CartBackend4.6.0\CartProjectDL\obj\Debug\CartProjectDL.csprojAssemblyReference.cache
+C:\CartBackend4.6.0\CartProjectDL\obj\Debug\CartProjectDL.csproj.CoreCompileInputs.cache
+C:\CartBackend4.6.0\CartProjectDL\bin\Debug\CartProjectDL.dll
+C:\CartBackend4.6.0\CartProjectDL\bin\Debug\CartProjectDL.pdb
+C:\CartBackend4.6.0\CartProjectDL\obj\Debug\CartProjectDL.dll
+C:\CartBackend4.6.0\CartProjectDL\obj\Debug\CartProjectDL.pdb

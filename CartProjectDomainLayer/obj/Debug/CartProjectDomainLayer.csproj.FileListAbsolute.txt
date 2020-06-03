@@ -1,0 +1,6 @@
+C:\CartBackend4.6.0\CartProjectDomainLayer\bin\Debug\CartProjectDomainLayer.dll
+C:\CartBackend4.6.0\CartProjectDomainLayer\bin\Debug\CartProjectDomainLayer.pdb
+C:\CartBackend4.6.0\CartProjectDomainLayer\obj\Debug\CartProjectDomainLayer.csprojAssemblyReference.cache
+C:\CartBackend4.6.0\CartProjectDomainLayer\obj\Debug\CartProjectDomainLayer.csproj.CoreCompileInputs.cache
+C:\CartBackend4.6.0\CartProjectDomainLayer\obj\Debug\CartProjectDomainLayer.dll
+C:\CartBackend4.6.0\CartProjectDomainLayer\obj\Debug\CartProjectDomainLayer.pdb

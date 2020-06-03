@@ -1,0 +1,9 @@
+C:\CartBackend4.6.0\CartProjectBL\obj\Debug\CartProjectBL.csproj.CoreCompileInputs.cache
+C:\CartBackend4.6.0\CartProjectBL\bin\Debug\CartProjectBL.dll
+C:\CartBackend4.6.0\CartProjectBL\bin\Debug\CartProjectBL.pdb
+C:\CartBackend4.6.0\CartProjectBL\bin\Debug\CartProjectDL.dll
+C:\CartBackend4.6.0\CartProjectBL\bin\Debug\CartProjectDL.pdb
+C:\CartBackend4.6.0\CartProjectBL\obj\Debug\CartProjectBL.csprojAssemblyReference.cache
+C:\CartBackend4.6.0\CartProjectBL\obj\Debug\CartProjectBL.csproj.CopyComplete
+C:\CartBackend4.6.0\CartProjectBL\obj\Debug\CartProjectBL.dll
+C:\CartBackend4.6.0\CartProjectBL\obj\Debug\CartProjectBL.pdb
